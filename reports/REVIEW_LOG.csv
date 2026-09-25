@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0187.jpg,xe bị mờ,added,Xe ko rõ + hoà vào tối nên model ko gán nhãn
+1,frame_0227.jpg,Xe bus duy nhất,added,model vẽ box chưa đủ, chưa ôm hết cả xe
+1,frame_0270.jpg,xe tối sát mép trái,added,Kéo khung ôm sát thân xe, kể cả đèn
